@@ -5,17 +5,11 @@ I build things that move—and model things that live.
 ## OncoMap
 
 <a href="https://github.com/ksingh110/OncoMap"><img alt="OncoMap repository" src="https://img.shields.io/badge/View_Repository-0D1117?style=for-the-badge&logo=github&logoColor=white"></a>
-
-<!-- Add your OncoMap description, accomplishments, screenshots, or research highlights here. -->
-
 <br>
 
 ## Gene Regulatory Network Evolution
 
 <a href="https://github.com/ksingh110/GRN-for-Gene-Networks"><img alt="Gene Regulatory Network Evolution repository" src="https://img.shields.io/badge/View_Repository-0D1117?style=for-the-badge&logo=github&logoColor=white"></a>
-
-<!-- Add your GRN description, accomplishments, example networks, or research highlights here. -->
-<!-- When your paper is ready, add a paper link below the repository button. -->
 
 <br>
 
