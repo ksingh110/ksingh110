@@ -1,14 +1,8 @@
-# Hey, I'm Krishay 👋
+# hey, i'm krishay
 
 I build things that move—and model things that live.
 
-🧬 Computational biology & machine learning  
-🤖 FTC software lead · autonomous navigation & robot controls  
-📍 Bellevue, WA
-
----
-
-## 🧬 OncoMap
+## OncoMap
 
 <a href="https://github.com/ksingh110/OncoMap"><img alt="OncoMap repository" src="https://img.shields.io/badge/View_Repository-0D1117?style=for-the-badge&logo=github&logoColor=white"></a>
 
@@ -16,7 +10,7 @@ I build things that move—and model things that live.
 
 <br>
 
-## 🔁 Gene Regulatory Network Evolution
+## Gene Regulatory Network Evolution
 
 <a href="https://github.com/ksingh110/GRN-for-Gene-Networks"><img alt="Gene Regulatory Network Evolution repository" src="https://img.shields.io/badge/View_Repository-0D1117?style=for-the-badge&logo=github&logoColor=white"></a>
 
