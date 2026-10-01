@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hey, I'm Krishay 👋
 
-<!--
-**ksingh110/ksingh110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build things that move—and model things that live.
 
-Here are some ideas to get you started:
+🧬 Computational biology & machine learning  
+🤖 FTC software lead · autonomous navigation & robot controls  
+📍 Bellevue, WA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧬 OncoMap
+
+<a href="https://github.com/ksingh110/OncoMap"><img alt="OncoMap repository" src="https://img.shields.io/badge/View_Repository-0D1117?style=for-the-badge&logo=github&logoColor=white"></a>
+
+<!-- Add your OncoMap description, accomplishments, screenshots, or research highlights here. -->
+
+<br>
+
+## 🔁 Gene Regulatory Network Evolution
+
+<a href="https://github.com/ksingh110/GRN-for-Gene-Networks"><img alt="Gene Regulatory Network Evolution repository" src="https://img.shields.io/badge/View_Repository-0D1117?style=for-the-badge&logo=github&logoColor=white"></a>
+
+<!-- Add your GRN description, accomplishments, example networks, or research highlights here. -->
+<!-- When your paper is ready, add a paper link below the repository button. -->
+
+<br>
+
+---
+
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+  <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
+</p>
