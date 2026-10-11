@@ -1,7 +1,4 @@
 # hey, i'm krishay
-
-I build things that move—and model things that live.
-
 ## OncoMap
 
 <a href="https://github.com/ksingh110/OncoMap"><img alt="OncoMap repository" src="https://img.shields.io/badge/View_Repository-0D1117?style=for-the-badge&logo=github&logoColor=white"></a>
@@ -12,7 +9,6 @@ I build things that move—and model things that live.
 <a href="https://github.com/ksingh110/GRN-for-Gene-Networks"><img alt="Gene Regulatory Network Evolution repository" src="https://img.shields.io/badge/View_Repository-0D1117?style=for-the-badge&logo=github&logoColor=white"></a>
 
 <br>
-
 ---
 
 <p>
